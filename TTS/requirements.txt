@@ -1,0 +1,9 @@
+#TTS
+asyncio
+edge_tts
+streamlit
+base64
+os
+tempfile
+pydub
+time
