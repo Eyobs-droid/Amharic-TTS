@@ -1,4 +1,4 @@
-# Amharic-TTS
+# Amharic-TTS using Streamlit and edge-tts
 The First Amharic TTS that is fully functional, interactive and appealing.
 
 
